@@ -83,7 +83,7 @@
     "type": "app",
     "data": {
       "type": "IFrame",
-      "url": "https://cstimer.net",
+      "url": "https://carow-verlag.de/",
       "gallery": ["https://cstimer.net/assets/home/home-screenshot-win.png"],
       "desc": "Professional timing program designed for Rubik's Cube Speed Solvers.",
       "feat": "It provides: Amounts of scramble algorithms, including all WCA official events, varieties of twisty puzzles, training scramble for specific sub steps (e.g. F2L, OLL, PLL, ZBLL, and can filter cases), etc."
