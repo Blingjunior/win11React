@@ -834,5 +834,20 @@
       "feat": "Inception",
       "invert": true
     }
+  },
+  {
+    "name": "Carow Verlag",
+    "icon": "https://carow-verlag.de/wp-content/uploads/2022/05/Logo-freigestell-plastisch-A4-RGB.png",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://carow-verlag.de/",
+      "invert": false,
+      "gallery": [
+        "https://carow-verlag.de/wp-content/uploads/2022/05/Banner1600x335.jpg"
+      ],
+      "desc": "Bücher verlag",
+      "feat": "online shoping, bücher"
+    }
   }
 ]
